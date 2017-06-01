@@ -1,9 +1,9 @@
 #surefire
-#Thu Jun 01 06:11:24 EDT 2017
+#Thu Jun 01 07:28:29 EDT 2017
 testng.configurator=org.apache.maven.surefire.testng.conf.TestNG60Configurator
-testng.test.classpath=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\target\\test-classes
-classPathUrl.0=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\target\\test-classes
-classPathUrl.1=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\target\\classes
+testng.test.classpath=D\:\\Git Repository\\ZMaven\\target\\test-classes
+classPathUrl.0=D\:\\Git Repository\\ZMaven\\target\\test-classes
+classPathUrl.1=D\:\\Git Repository\\ZMaven\\target\\classes
 classPathUrl.2=C\:\\Users\\shanmugaraj.rethinam\\.m2\\repository\\org\\testng\\testng\\6.8\\testng-6.8.jar
 classPathUrl.3=C\:\\Users\\shanmugaraj.rethinam\\.m2\\repository\\junit\\junit\\4.10\\junit-4.10.jar
 classPathUrl.4=C\:\\Users\\shanmugaraj.rethinam\\.m2\\repository\\org\\beanshell\\bsh\\2.0b4\\bsh-2.0b4.jar
@@ -64,14 +64,14 @@ enableAssertions=true
 childDelegation=false
 testFwJarVersion=6.8
 preferTestsFromInStream=false
-testSuiteDefinitionTestSourceDirectory=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\src\\test\\java
-testSuiteXmlFiles0=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\testng.xml
+testSuiteDefinitionTestSourceDirectory=D\:\\Git Repository\\ZMaven\\src\\test\\java
+testSuiteXmlFiles0=D\:\\Git Repository\\ZMaven\\testng.xml
 requestedTest=
 rerunFailingTestsCount=0
 runOrder=filesystem
-runStatisticsFile=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\.surefire-C417AB6065BEE3E32E175649FB98DBCBC9A97591
+runStatisticsFile=D\:\\Git Repository\\ZMaven\\.surefire-364440F5DE833FBFA0E3FBDD48C4A8D5FF6E9A78
 isTrimStackTrace=true
-reportsDirectory=C\:\\Users\\shanmugaraj.rethinam\\Documents\\GitHub\\testing\\.git\\ZMaven\\target\\surefire-reports
+reportsDirectory=D\:\\Git Repository\\ZMaven\\target\\surefire-reports
 useSystemClassLoader=true
 useManifestOnlyJar=true
 failIfNoTests=false
