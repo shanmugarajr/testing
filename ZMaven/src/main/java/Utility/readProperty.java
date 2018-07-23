@@ -14,6 +14,7 @@ public class readProperty {
 
 		catch (Throwable t) {
 			System.out.println(t.getMessage());
+			System.out.println(t.getStackTrace());
 		}
 		
 		
